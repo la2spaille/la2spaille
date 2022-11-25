@@ -2,7 +2,7 @@
 ### I'm Wilfried Djossi ( <a href="https://twitter.com/la2spaille" target="_blank">@la2spaille</a> )
 A young developer based in Douala, who has a particular focus on ui/ux design and motion.
 
-Here is my folio [la2spaille.studio]("https://la2spaille.studio/")
+Here is my folio [la2spaille.studio](https://la2spaille.studio)
 <!--
 **la2spaille/la2spaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
