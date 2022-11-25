@@ -1,8 +1,10 @@
 ## Hey 👋🏾
-### I'm Wilfried Djossi ( <a href="https://twitter.com/la2spaille" target="_blank">@la2spaille</a> )
+### I'm Wilfried Djossi ( <a href=" target="_blank">@la2spaille</a> )
 A young developer based in Douala, who has a particular focus on ui/ux design and motion.
 
-- 👀 Here is my folio [la2spaille.studio](https://la2spaille.studio)
+- 🎨 Here is my folio [la2spaille.studio](https://la2spaille.studio/)
+- 🐦 My twitter account [@la2spaille](https://twitter.com/la2spaille/)
+- 🖼 My instagram account [@la2spaille](https://www.instagram.com/la2spaille/)
 
 ### Wakatime
 
