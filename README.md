@@ -7,7 +7,6 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 - 🖼 My instagram account [@la2spaille](https://www.instagram.com/la2spaille/)
 
 ### Wakatime
-[![wakatime-stats](https://github.com/la2spaille/la2spaille/blob/main/images/stat.svg)](https://wakatime.com/@la2spaille)
 <!--START_SECTION:waka-->
 
 ```text
