@@ -8,7 +8,8 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 
 ### Wakatime
 [![wakatime-stats](https://github.com/la2spaille/la2spaille/blob/main/images/stat.svg)](https://wakatime.com/@la2spaille)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **la2spaille/la2spaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
