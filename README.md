@@ -9,6 +9,16 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 ### Wakatime
 [![wakatime-stats](https://github.com/la2spaille/la2spaille/blob/main/images/stat.svg)](https://wakatime.com/@la2spaille)
 <!--START_SECTION:waka-->
+
+```text
+PHP          13 hrs 36 mins  █████████░░░░░░░░░░░░░░░░   35.61 %
+JavaScript   13 hrs 28 mins  ████████▓░░░░░░░░░░░░░░░░   35.28 %
+SCSS         9 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   23.84 %
+CSS          1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **la2spaille/la2spaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
