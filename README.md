@@ -12,12 +12,12 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 ```text
 From: 17 November 2022 - To: 24 November 2022
 
-PHP          13 hrs 36 mins  ⏳⏳⏳⏳⏳⏳⏳⏳⏳————————————————   35.61 %
-JavaScript   13 hrs 28 mins  ⏳⏳⏳⏳⏳⏳⏳⏳⏳————————————————   35.28 %
-SCSS         9 hrs 6 mins    ⏳⏳⏳⏳⏳⏳———————————————————   23.84 %
-CSS          1 hr 51 mins    ⏳————————————————————————   04.87 %
-JSON         6 mins          —————————————————————————   00.30 %
-XML          2 mins          —————————————————————————   00.11 %
+PHP          13 hrs 36 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.61 %
+JavaScript   13 hrs 28 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.28 %
+SCSS         9 hrs 6 mins    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.84 %
+CSS          1 hr 51 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.87 %
+JSON         6 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.30 %
+XML          2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.11 %
 ```
 
 <!--END_SECTION:waka-->
