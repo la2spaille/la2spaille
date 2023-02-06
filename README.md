@@ -10,14 +10,14 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-Total Time: 7 hrs 28 mins
+Total Time: 5 hrs 35 mins
 
-SCSS         2 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   33.16 %
-CSS          1 hr 58 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
-PHP          1 hr 43 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-JavaScript   1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+PHP          1 hr 43 mins    ███████▓░░░░░░░░░░░░░░░░░   30.83 %
+CSS          1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+JavaScript   1 hr 17 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+SCSS         1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
 ```
 
 <!--END_SECTION:waka-->
