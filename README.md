@@ -10,16 +10,16 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Total Time: 4 hrs
+Total Time: 3 hrs 46 mins
 
-Markdown         1 hr 40 mins    ██████████▒░░░░░░░░░░░░░░   41.17 %
-Docker           1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-YAML             24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Vue.js           20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-yarn.lock        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JavaScript       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Markdown         1 hr 26 mins    █████████▒░░░░░░░░░░░░░░░   37.44 %
+Docker           1 hr 2 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
+YAML             24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Vue.js           20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+yarn.lock        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+JavaScript       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
