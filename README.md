@@ -9,16 +9,16 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 ### Wakatime
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
-Total Time: 32 hrs 6 mins
+Total Time: 36 hrs 4 mins
 
-PHP              14 hrs 9 mins   ███████████░░░░░░░░░░░░░░   44.07 %
-SCSS             7 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-TypeScript       5 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-JSON             1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-CSS              1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+PHP              17 hrs 36 mins  ████████████▒░░░░░░░░░░░░   48.79 %
+SCSS             7 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+TypeScript       5 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+CSS              1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+JSON             1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
