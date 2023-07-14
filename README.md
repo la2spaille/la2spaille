@@ -4,7 +4,6 @@ A young developer based in Douala, who has a particular focus on ui/ux design an
 
 - 🎨 Here is my folio [la2spaille.studio](https://la2spaille.studio/)
 - 🐦 My twitter account [@la2spaille](https://twitter.com/la2spaille/)
-- 🖼 My instagram account [@la2spaille](https://www.instagram.com/la2spaille/)
 
 ### Wakatime
 <!--START_SECTION:waka-->
