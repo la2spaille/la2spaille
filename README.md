@@ -10,15 +10,13 @@ A young developer based in Lille (France), who has a particular focus on ui/ux d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Total Time: 9 hrs 23 mins
+Total Time: 0 secs
 
-CSS              5 hrs 35 mins   ███████████████░░░░░░░░░░   59.45 %
-HTML             2 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   28.37 %
-JavaScript       57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-XML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JavaScript   0 secs          ██████████▓░░░░░░░░░░░░░░   42.43 %
+PHP          0 secs          █████████▓░░░░░░░░░░░░░░░   38.35 %
+Markdown     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
 ```
 
 <!--END_SECTION:waka-->
