@@ -2,8 +2,8 @@
 ### I'm Wilfried Djossi ( <a href="https://twitter.com/la2spaille/" target="_blank">@la2spaille</a> )
 A young developer based in Lille (France), who has a particular focus on ui/ux design and motion.
 
-- 🎨 Here is my folio [www.la2spaille.studio](https://la2spaille.studio/)
-- 🎨' Here is my old folio [v0.la2spaille.studio](https://v0.la2spaille.studio/)
+- 🎨 Here is my folio [www.la2spaille.com](https://la2spaille.com/)
+- 🎨' Here is my old folio [v0.la2spaille.com](https://v0.la2spaille.com/)
 - 🐦 My twitter account [@la2spaille](https://twitter.com/la2spaille/)
 
 ### Wakatime
