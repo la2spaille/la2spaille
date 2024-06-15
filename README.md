@@ -9,7 +9,7 @@ A young developer based in Paris (France), who has a particular focus on ui/ux d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 12 June 2024
+From: 06 June 2024 - To: 13 June 2024
 
 Total Time: 12 hrs 15 mins
 
