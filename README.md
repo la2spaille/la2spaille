@@ -9,15 +9,15 @@ A young developer based in Paris (France), who has a particular focus on ui/ux d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2024 - To: 24 July 2024
+From: 18 July 2024 - To: 25 July 2024
 
-Total Time: 41 hrs 47 mins
+Total Time: 43 hrs 14 mins
 
-Astro            20 hrs 9 mins   ████████████░░░░░░░░░░░░░   48.23 %
-JavaScript       15 hrs 45 mins  █████████▒░░░░░░░░░░░░░░░   37.71 %
-SCSS             2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-PHP              1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-TypeScript       36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Astro            21 hrs 24 mins  ████████████▒░░░░░░░░░░░░   49.50 %
+JavaScript       16 hrs 19 mins  █████████▒░░░░░░░░░░░░░░░   37.74 %
+SCSS             3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+PHP              1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
